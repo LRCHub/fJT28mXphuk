@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "muque - The 1 (TVアニメ「ONE PIECE」Lyric Video)",
+  "base_artist": "muque",
+  "createdAt": "2025-12-15T08:20:23.745539Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The 1",
+      "artist": "muque",
+      "has_synced": false,
+      "path": "select/pl_01_The_1_muque.txt"
+    }
+  ]
+}
